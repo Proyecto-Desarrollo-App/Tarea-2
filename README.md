@@ -13,7 +13,7 @@ Funcionalidades Principales
 - Interfaz amigable: Diseño basado en buenas prácticas de UX para facilitar la navegación.
 
 Mockups de la Aplicación
-![Mockup de FitTrack]()
+![Mockup de FitTrack](https://github.com/Proyecto-Desarrollo-App/Tarea-2/blob/main/mockups%20-%20FitTrack%20(1).jpeg)
 
  Pantalla Principal
 Lista de rutinas de ejercicio con opción para agregar una nueva.
